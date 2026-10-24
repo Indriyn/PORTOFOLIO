@@ -96,9 +96,6 @@ servicesButtons.forEach(button => {
    })
 })
 
-/*=============== TESTIMONIALS OF DUPLICATE CARDS ===============*/ 
-
-
 /*=============== CONTACT EMAIL JS ===============*/ 
 const contactForm = document.getElementById('contact-form'),
       contactMessage = document.getElementById('contact-message')
@@ -152,8 +149,3 @@ const scrollActive = () => {
    })
 }
 window.addEventListener('scroll', scrollActive)
-
-/*=============== CUSTOM CURSOR ===============*/
-
-
-/*=============== SCROLLREVEAL ANIMATION ===============*/
